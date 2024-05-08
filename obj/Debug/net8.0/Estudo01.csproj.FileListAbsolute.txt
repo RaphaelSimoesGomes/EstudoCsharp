@@ -1,0 +1,14 @@
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\bin\Debug\net8.0\Estudo01.exe
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\bin\Debug\net8.0\Estudo01.deps.json
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\bin\Debug\net8.0\Estudo01.runtimeconfig.json
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\bin\Debug\net8.0\Estudo01.dll
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\bin\Debug\net8.0\Estudo01.pdb
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.AssemblyInfoInputs.cache
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.AssemblyInfo.cs
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.csproj.CoreCompileInputs.cache
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.dll
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\refint\Estudo01.dll
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.pdb
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\Estudo01.genruntimeconfig.cache
+C:\Users\estagiario.nti03\Desktop\Estudo\EstudoCS\Estudo01\obj\Debug\net8.0\ref\Estudo01.dll
