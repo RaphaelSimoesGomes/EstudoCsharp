@@ -7,8 +7,17 @@ using System.Globalization;
 new Horario();
 
 LeituraArquivo arquivo = new LeituraArquivo();
-arquivo.LerArquivo(caminho: "Arquivos/arquivoLeitura.txt");
+var (sucesso, linhasArquivo, quantidadeLinhas)=arquivo.LerArquivo(caminho: "Arquivos/arquivoLeitura.txt");
 
+if(sucesso){
+    Console.WriteLine("Quantida de linhas: "+quantidadeLinhas);
+    foreach(string linha in linhasArquivo){
+        Console.WriteLine(linha);
+    }
+}
+else{
+    Console.WriteLine("Não foi possivel ler o arquivo");
+}
 
 Pessoa p1 = new Pessoa(nome: "Afonso", sobrenome: "Claudio");
 
