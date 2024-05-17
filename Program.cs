@@ -6,7 +6,8 @@ using System.Globalization;
 
 new Horario();
 
-new LeituraArquivo(caminho: "Arquivos/arquivoLeitura.txt");
+LeituraArquivo arquivo = new LeituraArquivo();
+arquivo.LerArquivo(caminho: "Arquivos/arquivoLeitura.txt");
 
 
 Pessoa p1 = new Pessoa(nome: "Afonso", sobrenome: "Claudio");
