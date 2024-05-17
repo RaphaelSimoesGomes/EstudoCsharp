@@ -1,17 +1,15 @@
+namespace Estudo01.Models;
 public class LeituraArquivo{
-    public LeituraArquivo(string caminho){
+    public  (bool Sucesso, string[] Linhas, int QuantidadeLinhas) LerArquivo(string caminho){
         try
         {
             string[] linhas = File.ReadAllLines(caminho);
-            foreach (string linha in linhas){
-            Console.WriteLine(linha);
-            }
+            return(true, linhas, linhas.Count());
         
         }
-        catch (Exception ex)
+        catch (Exception)
         {
-            Console.WriteLine($"Ocorreu uma exceção genérica. {ex.Message}");
-            throw;
+            return (false,new string[0],0);
         }
     }
 }
