@@ -11,9 +11,11 @@ This repository was created to:
 🚀 Practice object-oriented programming.
 📊 Work with collections and data manipulation effectively.
 📝 Document and track progress in various study topics.
+<br/>
 
 ## 🛠️ Requirements
 To explore the examples, ensure you have the following tools installed:
+<br/>
 
 .NET SDK: Version 6.0 or higher.
 Code Editor: Visual Studio or Visual Studio Code with the C# extension.
